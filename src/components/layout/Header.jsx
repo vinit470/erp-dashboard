@@ -184,7 +184,7 @@ export default function Header() {
             VK
           </div>
           <div className="hidden xl:block text-left text-xs leading-tight">
-            <span className="font-bold text-slate-800 block">Vinita K.</span>
+            <span className="font-bold text-slate-800 block">Vinit K.</span>
             <span className="text-[10px] text-slate-400 block">Project Director</span>
           </div>
         </div>
